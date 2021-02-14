@@ -11,7 +11,7 @@ const Portfolio = function() {
 				text: "Web-Devloper",
 				weight: 14
 			}, {
-				text: "Front-End",
+				text: "Full-Stack",
 				weight: 5
 			}, {
 				text: "Coder",
